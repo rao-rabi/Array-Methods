@@ -113,7 +113,7 @@ console.log(`splice method ------->`, arraySplice);
 arraySplice.splice(1,3) //removing elements
 console.log(`splice method ------->`, arraySplice);
 
-//with method used to replace element in ana array and returns a new array
+//with method used to replace element in an array and returns a new array
 
 const arrWith = [2,3,4,5,6,0,7,8];
 console.log(`with method ------->`, arrWith.with(5,9)); //it will replace index 5 element with 9
