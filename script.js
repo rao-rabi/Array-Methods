@@ -56,7 +56,7 @@ console.log(`find method ------->`, arr.find(checkFun));
 
 //findIndex method return the first element index which satisfy the condition.
 
-console.log(`find method ------->`, arr.findIndex(checkFun));
+console.log(`findIndex method ------->`, arr.findIndex(checkFun));
 
 //flat method creates a new array with all sub-array elements concatinated in it recursively.
 
